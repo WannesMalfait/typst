@@ -22,7 +22,7 @@
 #int(10pt)
 
 ---
-// Error: 8-13 expected boolean, integer, ratio, string, or float, found function
+// Error: 8-13 expected boolean, integer, ratio, string, or float, found type
 #float(float)
 
 ---

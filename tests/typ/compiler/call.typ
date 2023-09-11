@@ -31,7 +31,7 @@
 
 // Call function assigned to variable.
 #let alias = type
-#test(alias(alias), "function")
+#test(alias(alias), "type")
 
 // Callee expressions.
 #{

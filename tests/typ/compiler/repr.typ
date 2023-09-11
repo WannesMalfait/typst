@@ -37,9 +37,8 @@
 // Content.
 #raw(lang: "typc", repr[*Hey*])
 
-// Functions are invisible.
-Nothing
+// Functions.
 #let f(x) = x
-#f
-#rect
+#f \
+#rect \
 #(() => none)
